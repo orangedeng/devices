@@ -12,7 +12,7 @@ import (
 
 const (
 	ssd1306_LCDWIDTH  = 128
-	ssd1306_LCDHEIGHT = 64
+	ssd1306_LCDHEIGHT = 32
 
 	addr = 0x3C // addr is the I2C address of the device.
 
